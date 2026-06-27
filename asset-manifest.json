@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eslam-samir-abdo/graphic-designer-portifolio/static/css/main.2a5fba98.css",
+    "main.js": "/eslam-samir-abdo/graphic-designer-portifolio/static/js/main.a2146bc7.js",
+    "index.html": "/eslam-samir-abdo/graphic-designer-portifolio/index.html",
+    "main.2a5fba98.css.map": "/eslam-samir-abdo/graphic-designer-portifolio/static/css/main.2a5fba98.css.map",
+    "main.a2146bc7.js.map": "/eslam-samir-abdo/graphic-designer-portifolio/static/js/main.a2146bc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a5fba98.css",
+    "static/js/main.a2146bc7.js"
+  ]
+}
