@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/graphic-designer-portifolio/static/css/main.2a5fba98.css",
-    "main.js": "/graphic-designer-portifolio/static/js/main.a2146bc7.js",
+    "main.js": "/graphic-designer-portifolio/static/js/main.3f971d08.js",
     "index.html": "/graphic-designer-portifolio/index.html",
     "main.2a5fba98.css.map": "/graphic-designer-portifolio/static/css/main.2a5fba98.css.map",
-    "main.a2146bc7.js.map": "/graphic-designer-portifolio/static/js/main.a2146bc7.js.map"
+    "main.3f971d08.js.map": "/graphic-designer-portifolio/static/js/main.3f971d08.js.map"
   },
   "entrypoints": [
     "static/css/main.2a5fba98.css",
-    "static/js/main.a2146bc7.js"
+    "static/js/main.3f971d08.js"
   ]
 }
